@@ -12,7 +12,7 @@ A responsive movie explorer built with React and Vite, using The Movie Database 
 React, Vite, CSS, TMDB API
 
 ## Live Demo
-🔗https://movie-app-hnxa.vercel.app/
+🔗https://movie-app-kappa-dun.vercel.app/
 
 ## Screenshots
 <img width="1581" height="724" alt="image" src="https://github.com/user-attachments/assets/bd3812ac-087c-4fb6-b8a2-404cc296d567" />
